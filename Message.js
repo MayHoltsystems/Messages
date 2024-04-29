@@ -35,3 +35,6 @@ for (let i in Message){
 //Print the message
 const MixedMessage = PersonalMessage.join(' ')
     console.log(MixedMessage)
+
+    //Added comment on branch
+    
